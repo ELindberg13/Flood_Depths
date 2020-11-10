@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.pth
+*/.ipynb_checkpoints/*
+*/.pth/*
+**/.DS_Store
